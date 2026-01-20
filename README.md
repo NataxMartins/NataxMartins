@@ -1,9 +1,9 @@
 ![pixel-art-game-purple](https://github.com/user-attachments/assets/e8f22c6f-3e26-48c7-9c9c-964243b2f1aa)
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=32&duration=2000&pause=150&color=BF40BF&center=true&vCenter=true&multiline=true&repeat=false&width=1000&height=100&lines=Hello!+I'm+Natã+Martins!;Front+End+and+Game+Developer)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=32&duration=2000&pause=150&color=BF40BF&center=true&vCenter=true&multiline=true&repeat=false&width=1000&height=100&lines=Hello,+I'm+Natã+Martins!;Front+End+and+Game+Developer)](https://git.io/typing-svg)
 
 
-<br>🎓 Graduate in Systems Analysis and Development at FATEC <br>💻 Front-end & Game Developer<br> 👨‍🏫 Experience as a technology instructor, sharing knowledge and mentoring students
- <br>🎮 Passionate about building interactive interfaces and immersive game experiences<br>🚀 Focused on performance, creativity, and UI
+<br>🎓 Graduate in Systems Analysis and Development at FATEC. <br>💻 Front-end & Game Developer.<br> 👨‍🏫 Experience as a technology instructor, sharing knowledge and mentoring students.
+ <br>🎮 Passionate about building interactive interfaces and immersive game experiences.<br>🚀 Focused on performance, creativity, and UI!
 
 
 ## 🌐 Socials:
